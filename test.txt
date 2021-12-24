@@ -4,3 +4,5 @@ deneme branchinde  ikinci satırı ekliiyorum
 yeni kıta yeni başlangıçlar,
 nasılsın kereata
 
+ucuncu branchte yaptıgım değişikler
+
